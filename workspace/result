@@ -1,0 +1,96 @@
+baby_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.2
+28.35146716681472
+baby_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.2
+0.8620272863514703
+
+bagles_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 3, sigma_intensity : 0.2
+24.657714671244268
+bagles_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 5, sigma_intensity : 0.2
+0.7954960838237218
+
+beach_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.2
+26.61319815026335
+beach_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.3
+0.8608820270787082
+
+
+book_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.2
+27.117275217556912
+book_noisy.png
+median filter - stride 1, filter size : 5
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.2
+0.8730237910558212
+
+
+dog_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.2
+26.844574996439754
+dog_noisy.png
+median filter - stride 1, filter size : 5
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.4
+0.7852761813717134
+
+
+girl_ani_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 5, sigma_intensity : 0.2
+26.036394924779636
+girl_ani_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.2
+0.8927601750954999
+
+
+lego_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 3, sigma_intensity : 0.2
+25.33604271980525
+lego_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.2
+0.8137919893837355
+
+
+kitty_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.2
+28.61149430850938
+kitty_noisy.png
+median filter - stride 1, filter size : 5
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.2
+0.878760732352288
+
+
+house_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.1
+21.392846437748
+house_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.1
+0.6501435713724929
+
+
+street_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 7, sigma_intensity : 0.1
+22.778706242718265
+street_noisy.png
+median filter - stride 1, filter size : 3
+bilateral_filter - kernel size : 7, sigma_space : 3, sigma_intensity : 0.2
+0.6867530001625889
